@@ -1,4 +1,5 @@
 #windows
+# This program uses the 'cryptography' library: https://cryptography.io/
 from cryptography.fernet import Fernet
 from func import lst_about
 from file_explore import explore
