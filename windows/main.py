@@ -95,12 +95,13 @@ KNOWN ISSUES
    and thus sme other combunations might match. 
 >> in text mode, some PIN combinations don't encrypt. They give the same
    output.
+>> Problem when accessing files in the workig directory with the file explorer.
 
 WARNING
 -------------------------------------------------------------------------
 >> Using the wrong key file or PIN might CORRUPT YOUR DATA.
 >> Please make sure you back-up important files and keys.
->> Please don't store your key files together with the files. You can use 
+>> Please avoid storing your key files together with the files. You can use 
    the explorer to select a key without setting it as default.
 >> Please don't rely on the PIN. The PIN is safe only against a kid, any 
    hacker will break the PIN in five minutes. The KEY is what secures the 
