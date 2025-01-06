@@ -71,7 +71,7 @@ Select ------------(select)
 			filekey.close()
 			print("The key was created. Do you want to set it as default?")
 			print("WARNING: This action will overwrite the default key.")
-			a=input("Y/N")
+			a=input("Y/N ")
 			if a=='Y':
 				filekey=open("default.nKey",'wb')
 				filekey.write(key1)
