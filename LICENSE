@@ -20,6 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This project uses the following third-party libraries:
+This project requires the following third-party libraries:
 
 * **cryptography:** https://cryptography.io/ 
+I did not include them, and you must install them yourself.
